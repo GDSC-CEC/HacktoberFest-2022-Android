@@ -11,7 +11,7 @@ Input should be given as numbers and operators(+,-,% etc.)
 Output should be the calculated value.
 
 #### Contributing
-If your app performs all the operations and compact, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
+If your app performs all the operations and compact in size, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
 
 ## Acknowledgments
 - [Android](https://developer.android.com/docs)
