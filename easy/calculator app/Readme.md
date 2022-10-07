@@ -1,5 +1,5 @@
 
-#HacktoberFest2022
+# HacktoberFest2022
 ## Calculator App
 
 You have to create a calculator app that performs arithmetic operations. You can create a simple mathematical calculator or a scientific calculator. It's all upto you. You can show your creativity at making the best app.
