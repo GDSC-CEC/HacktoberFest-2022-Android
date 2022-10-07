@@ -1,6 +1,6 @@
 
 # HacktoberFest2022
-## Calculator App
+## Dominos App (Clone)
 
 You have to create a dominos clone that performs basic operations of taking orders from the Menu. You can even customize the app accoding to your preferences. It's all upto you. You can show your creativity at making the best app.
 
