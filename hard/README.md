@@ -8,6 +8,9 @@ This is the hard level (application building) section for the intermediate to ex
 ### Contributing
 If your app works fine as per the features you mention with customization, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
 
+#### Note : 
+Put up screenshots of the working app in the comments too.
+
 ## Acknowledgments
 - [Android](https://developer.android.com/docs)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
