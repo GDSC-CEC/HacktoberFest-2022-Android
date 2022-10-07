@@ -13,6 +13,9 @@ The app should be able to run properly and place orders along with tracking.
 ### Contributing
 If your app works fine as the original one with customization, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
 
+#### Note : 
+Put up screenshots of the working app in the comments too.
+
 ## Acknowledgments
 - [Android](https://developer.android.com/docs)
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
