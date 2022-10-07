@@ -3,6 +3,7 @@
 ## Calculator App
 
 You have to create a calculator app that performs arithmetic operations. You can create a simple mathematical calculator or a scientific calculator. It's all upto you. You can show your creativity at making the best app.
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin. And for the interactive user interface, you can use XML.
 
 ### Input
 Input should be given as numbers and operators(+,-,% etc.) 
