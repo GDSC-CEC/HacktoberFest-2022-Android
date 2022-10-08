@@ -1,8 +1,11 @@
 
 # HacktoberFest2022
 ## Open Innovation
+### Problem Statement
 
 Contributors are free to choose an app of their choice, build one and showcase your skills here. 
+
+To build the application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
 
 ### Contributing
 If your app works fine as the original one with customization, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
