@@ -1,8 +1,11 @@
 
-# HacktoberFest2022
+# HacktoberFest 2022
 ## Delivery Tracking App
+### Problem Statement
 
 Contributors are required to build delivery tracking app along with the notification feature for every update. You can even customize the app according to your preferences. It's all upto you. You can show your creativity at making the best app.
+
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
 
 ### Input
 Perform basic tracking of orders along with atleast one customized feature.
