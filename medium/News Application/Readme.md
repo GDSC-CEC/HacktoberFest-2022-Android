@@ -1,8 +1,11 @@
 
 # HacktoberFest2022
 ## News Application
+### Problem Statement
 
 Contributors are required to build an app for news update along with the notification feature and other features which should be customized and made on personal preferences. Show your creativity and put your best forward! :D
+
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
 
 ### Input
 Perform the features necessary for the news application like the ones which are published, but make sure not to make a clone, just use your creativity and put the original app forward!
