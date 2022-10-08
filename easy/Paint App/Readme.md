@@ -1,6 +1,7 @@
 
 # HacktoberFest 2022
 ## Paint App
+### Problem Statement
 
 Paint app provides the interface to the users to doodle 
 anything they want. Different shapes and many other elements 
