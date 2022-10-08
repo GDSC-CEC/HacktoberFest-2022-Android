@@ -1,8 +1,11 @@
 
-# HacktoberFest2022
+# HacktoberFest 2022
 ## Women Safety App
+### Problem Statement
 
 Contributors are required to build an app that can be used for women safety. All the features of the app should be customized and made on personal preferences. Original ideas are welcomed! Show your creativity and put your best forward! :D
+
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
 
 ### Output
 The app should be able to perform features properly in terms of the options available for the women safety application.
