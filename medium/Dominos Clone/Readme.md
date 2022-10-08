@@ -1,8 +1,11 @@
 
 # HacktoberFest2022
 ## Dominos App (Clone)
+### Problem Statement
 
 You have to create a dominos clone that performs basic operations of taking orders from the Menu. You can even customize the app according to your preferences. It's all upto you. You can show your creativity at making the best app.
+
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
 
 ### Input
 Perform basic ordering and tracking of orders like the dominos app along with atleast one customized feature.
