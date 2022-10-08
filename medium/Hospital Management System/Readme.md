@@ -1,8 +1,11 @@
 
 # HacktoberFest2022
 ## Hospital Management System
+### Problem Statement
 
 Contributors are required to build an app that can be used as hospital management system. All the features of the app should be customized and made on personal preferences. Show your creativity and put your best forward! :D
+
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
 
 ### Input
 Perform the features necessary for the hospital management system, starting from the appointments with customized view.
