@@ -1,7 +1,7 @@
 
 # HacktoberFest 2022
 ## Notes App
-
+### Problem Statement
 Notes application stores the various notes of different subjects. This will help the students to get their notes at ease. Students will be the main user of this app so the content & quality of the notes should be maintained and the UI should be designed accordingly.
 
 To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
