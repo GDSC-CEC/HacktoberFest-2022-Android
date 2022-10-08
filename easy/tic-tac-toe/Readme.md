@@ -1,5 +1,6 @@
 # HacktoberFest 2022
 ## Tic Tac Toe
+### Problem Statement
 
 Tic Tac Toe is a game in which two players take turns in drawing either an 'O' or an 'X' in one square of a grid consisting of nine squares.The person who succeeds in placing three of their marks in horizontal, vertical or diagonal row is the winner. If the match is drawn i.e. none of the player is able to place their in the straight line then a toast should be shown and new match should start.
 
