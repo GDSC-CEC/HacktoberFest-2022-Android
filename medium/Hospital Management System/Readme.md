@@ -1,5 +1,5 @@
 
-# HacktoberFest2022
+# HacktoberFest 2022
 ## Hospital Management System
 ### Problem Statement
 
