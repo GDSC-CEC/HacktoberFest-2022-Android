@@ -1,8 +1,11 @@
 
-# HacktoberFest2022
+# HacktoberFest 2022
 ## Dynamic Quiz App
+### Problem Statement
 
 Contributors are required to build a dynamic quiz app, along with some customizations of your own choice. You can show your creativity at making the best app.
+
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
 
 ### Contributing
 If your app works fine while playing the quiz, your solution will be merged with the main branch. If you have any questions, feel free to open an issue. Make sure to customize the app.
