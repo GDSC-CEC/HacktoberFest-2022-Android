@@ -10,7 +10,7 @@ To build this application you would need to make use of Android Studio as a plat
 User can add or delete any contact in the list.
 
 ### Output
-All the updations should be shown to user. For example, if user deletes any conatct then it will be reflected in the list.
+All the updations should be shown to user. For example, if user deletes any contact then it will be reflected in the list.
 
 #### Contributing
 If your app is able to display the contacts and add or delete the contacts and also compact in size, your solution will be merged with the main branch. If you have any questions, feel free to open an issue.
