@@ -1,8 +1,11 @@
 
-# HacktoberFest2022
+# HacktoberFest 2022
 ## Social Media Clone
+### Problem Statement
 
 Contributors are required to build a social media app clone. Now you can build the clone of your choice. All the features of the app should be customized and made on personal preferences. Show your creativity and put your best forward! :D
+
+To build this application you would need to make use of Android Studio as a platform for app development. Also, you need to write the code using Kotlin or Java. And for the interactive user interface, you can use XML.
 
 ### Input
 Perform the features starting from basic chatting option to mentioning in posts and other options with customization.
