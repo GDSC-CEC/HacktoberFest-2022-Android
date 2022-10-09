@@ -1,1 +1,1 @@
-1st folder to participate in Sound Recorder App Project
+Folder to participate in Sound Recorder App Project
