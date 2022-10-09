@@ -40,7 +40,7 @@ Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_O
 
 ###  🧾Rules
 * There are total 23 projeccts open for contribution.
-* Pull Requests are accepted on **First Come First Serve Basis**.
+* Pull Requests are accepted on your performances and optimized solution.
 * We accept  2 pull request on one project, Once it's done. No other pull request will be reviewed on the that project. Please try to contribute on other Project if pull requests are already merged.
 * Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 * Respect people.
