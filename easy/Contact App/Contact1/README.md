@@ -1,2 +1,2 @@
 
-1st folder to participate in Contact App Project
+Folder to participate in Contact App Project
