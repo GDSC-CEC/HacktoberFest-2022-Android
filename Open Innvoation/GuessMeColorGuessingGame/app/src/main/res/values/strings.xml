@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess Me- Color Guessing Game</string>
+    <string name="guess_color">Guess the Color</string>
+    <string name="start">START</string>
+    <string name="guess">Guess</string>
+    <string name="result">Result</string>
+    <string name="click_on_start_button_start_the_game">Click on start button to START the game:</string>
+</resources>
